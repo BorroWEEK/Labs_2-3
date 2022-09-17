@@ -1,0 +1,24 @@
+@keyframes disco {
+  0% {
+    color: var(--pg-red);
+  }
+
+  50% {
+    color: white;
+  }
+
+  100% {
+    color: var(--pg-red);
+  }
+}
+
+.header__title {
+  margin: var(--clear);
+  padding: var(--clear);
+  color: var(--pg-red);
+  font-size: 150px;
+  font-weight: 700;
+  line-height: 188px;
+  text-align: center;
+  animation: disco 2s linear infinite ;
+}

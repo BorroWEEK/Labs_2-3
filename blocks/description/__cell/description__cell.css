@@ -1,0 +1,11 @@
+.description__cell {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 640px;
+  text-align: center;
+  justify-content: stretch;
+}
+
+.description__cell:nth-of-type(n+2) {
+  border-left: 1px solid rgba(255, 255, 255, .5);
+}

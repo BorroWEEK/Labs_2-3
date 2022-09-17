@@ -1,0 +1,13 @@
+.slider__img {
+  position: relative;
+  display: inline-block;
+  width: 416px;
+  height: 350px;
+  object-fit: 100%;
+  transition: transform 1.5s ease-in;
+  cursor: pointer;
+}
+
+.slider__img:hover {
+  transform: scale(1.1, 1.1);
+}

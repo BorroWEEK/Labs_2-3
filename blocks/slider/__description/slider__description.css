@@ -1,0 +1,24 @@
+.slider__description {
+  position: relative;
+  max-width: 286px;
+  margin: var(--clear);
+  text-align: center;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 25px;
+  letter-spacing: .05em;
+  text-transform: uppercase;
+  color: white;
+  z-index: 1;
+}
+
+.slider__description::before {
+  content: '';
+  position: absolute;
+  height: 77px;
+  top: -35px;
+  left: -45px;
+  right: -45px;
+  background-color: var(--pg-red);
+  z-index: -1;
+}

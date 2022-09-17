@@ -1,0 +1,6 @@
+.page {
+  max-width: 1920px;
+  overflow-x: hidden;
+  background-color: var(--pg-dark);
+  font-family: 'Reformagrotesk', sans-serif;
+}

@@ -1,0 +1,8 @@
+.achievements__title {
+  max-width: 636px;
+  margin: var(--clear);
+  font-size: 52px;
+  font-weight: 600;
+  line-height: 73px;
+  text-transform: uppercase;
+}

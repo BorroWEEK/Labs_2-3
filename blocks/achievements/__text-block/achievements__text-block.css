@@ -1,0 +1,5 @@
+.achievements__text-block {
+  display: flex;
+  flex-direction: column;
+  justify-self: flex-start
+}

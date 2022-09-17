@@ -1,0 +1,62 @@
+/* Аутсорс */
+@import url('../vendor/normalize.css');
+@import url('../vendor/fonts.css');
+
+/* Корень */
+@import url('../blocks/root/root.css');
+
+/* Страница */
+@import url('../blocks/page/page.css');
+
+/* Header */
+@import url('../blocks/header/header.css');
+@import url('../blocks/header/__nav/header__nav.css');
+@import url('../blocks/header/__list/header__list.css');
+@import url('../blocks/header/__link/header__link.css');
+@import url('../blocks/header/__item/header__item.css');
+@import url('../blocks/header/__nav-btn/header__nav-btn.css');
+@import url('../blocks/header/__title/header__title.css');
+@import url('../blocks/header/__dots-container/header__dots-container.css');
+@import url('../blocks/header/__subtitle/header__subtitle.css');
+@import url('../blocks/header/__service-link/header__service-link.css');
+@import url('../blocks/header/__dots-container/_place/header__dots-container_place_achievements.css');
+
+/* Description */
+@import url('../blocks/description/description.css');
+@import url('../blocks/description/__cell/description__cell.css');
+@import url('../blocks/description/__title/description__title.css');
+@import url('../blocks/description/__text/description__text.css');
+
+/* Content */
+@import url('../blocks/content/content.css');
+
+/* Content */
+@import url('../blocks/content/content.css');
+@import url('../blocks/content/__achievements/content__achievements.css');
+
+
+/* Achievements */
+@import url('../blocks/achievements/achievements.css');
+@import url('../blocks/achievements/__title/achievements__title.css');
+@import url('../blocks/achievements/__text-block/achievements__text-block.css');
+@import url('../blocks/achievements/__text/achievements__text.css');
+
+/* Cells */
+@import url('../blocks/cells/cells.css');
+@import url('../blocks/cells/_above/cells_above.css');
+@import url('../blocks/cells/_below/cells_below.css');
+@import url('../blocks/cells/__text/cells__text.css');
+@import url('../blocks/cells/__cell/cells__cell.css');
+
+/* Slider */
+@import url('../blocks/slider/slider.css');
+@import url('../blocks/slider/__wrapper/slider__wrapper.css');
+@import url('../blocks/slider/__list/slider__list.css');
+@import url('../blocks/slider/__arrow-left/slider__arrow-left.css');
+@import url('../blocks/slider/__arrow-right/slider__arrow-right.css');
+@import url('../blocks/slider/__img/slider__img.css');
+@import url('../blocks/slider/__description/slider__description.css');
+@import url('../blocks/slider/__cell/slider__cell.css');
+
+/* Arrow */
+@import url('../blocks/arrow/arrow.css');

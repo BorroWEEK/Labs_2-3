@@ -1,0 +1,9 @@
+.description__title {
+  margin: 50px 0 20px 0;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 25px;
+  letter-spacing: .05em;
+  text-transform: uppercase;
+  color: white;
+}

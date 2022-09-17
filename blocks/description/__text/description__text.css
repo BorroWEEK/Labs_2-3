@@ -1,0 +1,12 @@
+.description__text {
+  margin: var(--clear);
+  padding: var(--clear);
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 34px;
+  color: var(--pg-red);
+}
+
+.description__text + .description__text {
+  margin: 15px 0 50px 0;
+}

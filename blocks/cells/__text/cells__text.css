@@ -1,0 +1,9 @@
+.cells__text {
+  margin: 22px 0 0 0;
+  padding: 0;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 22px;
+  letter-spacing: .05em;
+  text-transform: uppercase;
+}

@@ -1,0 +1,10 @@
+.slider__arrow-right {
+  margin-left: 60px;
+  background-image: url('../../../images/slider-right.svg');
+  transition: transform .7s ease-in;
+  cursor: pointer;
+}
+
+.slider__arrow-right:hover {
+  transform: translateX(5px);
+}

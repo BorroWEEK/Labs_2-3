@@ -1,0 +1,7 @@
+.achievements {
+  max-width: 1296px;
+  padding: 180px 0;
+  display: flex;
+  justify-content: flex-start;
+  color: white;
+}

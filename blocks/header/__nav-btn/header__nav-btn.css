@@ -1,0 +1,17 @@
+.header__nav-btn {
+  position: relative;
+  width: 50px;
+  height: 25px;
+  background-image: url('../../../images/burger.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-sizing: border-box;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  transition: transform 1s linear;
+}
+
+.header__nav-btn:hover {
+  transform: scale(1.1, 1.1);
+}

@@ -1,0 +1,8 @@
+.header__dots-container {
+  margin: 0 auto;
+  width: 146.4px;
+  height: 14.1px;
+  background-image: url('../../../images/header-dots.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
