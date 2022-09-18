@@ -1,0 +1,11 @@
+.adv__col-img {
+  margin-bottom: 40px;
+  display: block;
+  object-fit: cover;
+  filter: brightness(30%);
+  transition: filter 2s ease-in;
+}
+
+.adv__col-img:hover {
+  filter: brightness(100%);
+}

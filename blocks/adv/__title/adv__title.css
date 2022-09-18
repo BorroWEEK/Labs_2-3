@@ -1,0 +1,11 @@
+.adv__title {
+  margin: var(--clear);
+  padding: var(--clear);
+  display: flex;
+  align-items: center;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 45px;
+  letter-spacing: .05em;
+  text-transform: uppercase;
+}

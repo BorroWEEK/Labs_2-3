@@ -1,0 +1,8 @@
+.adv__desc {
+  margin: 30px 0 0 0;
+  padding: var(--clear);
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: .03em;
+}

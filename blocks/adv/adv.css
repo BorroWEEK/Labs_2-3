@@ -1,0 +1,5 @@
+.adv {
+  max-width: 1296px;
+  display: flex;
+  justify-content: space-between;
+}

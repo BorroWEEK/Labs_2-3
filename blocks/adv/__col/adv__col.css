@@ -1,0 +1,10 @@
+.adv__col:first-of-type {
+  max-width: 526px;
+}
+
+.adv__col:last-of-type {
+  max-width: 636px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}

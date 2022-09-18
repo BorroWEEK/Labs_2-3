@@ -20,6 +20,7 @@
 @import url('../blocks/header/__subtitle/header__subtitle.css');
 @import url('../blocks/header/__service-link/header__service-link.css');
 @import url('../blocks/header/__dots-container/_place/header__dots-container_place_achievements.css');
+@import url('../blocks/header/__dots-container/_place/header__dots-container_place_adv.css');
 
 /* Description */
 @import url('../blocks/description/description.css');
@@ -60,3 +61,19 @@
 
 /* Arrow */
 @import url('../blocks/arrow/arrow.css');
+@import url('../blocks/arrow/_place/arrow_place.css');
+
+/* Advantages */
+@import url('../blocks/advantages/advantages.css');
+@import url('../blocks/advantages/__adv/advantages__adv.css');
+
+/* Adv */
+@import url('../blocks/adv/adv.css');
+@import url('../blocks/adv/__col/adv__col.css');
+@import url('../blocks/adv/__title/adv__title.css');
+@import url('../blocks/adv/__icon-cont/adv__icon-cont.css');
+@import url('../blocks/adv/__desc/adv__desc.css');
+@import url('../blocks/adv/__item/adv__item.css');
+@import url('../blocks/adv/__col-img/adv__col-img.css');
+@import url('../blocks/adv/__col-sld/adv__col-sld.css');
+@import url('../blocks/adv/__col-sld-text/adv__col-sld-text.css');
