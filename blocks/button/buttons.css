@@ -1,0 +1,13 @@
+.buttons {
+  margin: 60px auto 80px auto;
+  padding: 0;
+  width: 480px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 45px;
+  letter-spacing: .05em;
+  text-transform: uppercase;
+}

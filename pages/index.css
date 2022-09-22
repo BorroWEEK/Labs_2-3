@@ -77,3 +77,53 @@
 @import url('../blocks/adv/__col-img/adv__col-img.css');
 @import url('../blocks/adv/__col-sld/adv__col-sld.css');
 @import url('../blocks/adv/__col-sld-text/adv__col-sld-text.css');
+
+/* Service */
+@import url('../blocks/service/service.css');
+@import url('../blocks/cards/cards.css');
+@import url('../blocks/service/__title/service__title.css');
+@import url('../blocks/button/buttons.css');
+@import url('../blocks/button/__button/buttons__button.css');
+@import url('../blocks/button/__button/_bg/buttons__button_bg_red.css');
+@import url('../blocks/button/__button/_bg/buttons__button_bg_trans.css');
+
+/* Cards */
+@import url('../blocks/cards/cards.css');
+@import url('../blocks/cards/__card/cards__card.css');
+@import url('../blocks/cards/__icon/cards__icon..css');
+@import url('../blocks/cards/__title/cards__title.css');
+@import url('../blocks/cards/__text/cards__text.css');
+@import url('../blocks/cards/__btn/cards__btn.css');
+
+/* Анимация бегущей строки */
+@keyframes stroka {
+  0% {
+    left: 100%;
+  }
+  100% {
+    left: -50%;
+  }
+}
+
+/* Строка в соответствии с заданием (пункт 8) */
+.STROKA {
+  position: fixed;
+  display: flex;
+  align-items: center;
+  bottom: 0;
+  min-width: 100%;
+  height: 40px;
+  background-color: orange;
+  color: black;
+  z-index: 10;
+  overflow: hidden;
+}
+
+.STROKA__text {
+  position: absolute;
+  font-size: 36px;
+  height: 50px;
+  display: inline;
+  margin: var(--clear);
+  animation: stroka 12s linear infinite;
+}

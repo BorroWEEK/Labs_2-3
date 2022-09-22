@@ -1,0 +1,22 @@
+.cards__btn {
+  display: inline-block;
+  margin: 25px 0 0 0;
+  width: 91px;
+  height: 43px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  background-image: linear-gradient(90deg, var(--pg-red) 0% 68%, transparent 68% 100%);
+  color: white;
+  letter-spacing: .05em;
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: uppercase;
+  line-height: 25px;
+  transition: opacity .5s linear;
+}
+
+.cards__btn:hover {
+  opacity: .5;
+}

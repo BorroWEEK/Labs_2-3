@@ -1,0 +1,12 @@
+.buttons__button {
+  width: 182px;
+  height: 75px;
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: opacity .5s linear;
+}
+
+.buttons__button:hover {
+  opacity: .5;
+}

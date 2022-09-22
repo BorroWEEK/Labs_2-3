@@ -1,0 +1,8 @@
+.service {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  max-width: 1296px;
+  color: white;
+  text-align: center;
+}
