@@ -1,0 +1,11 @@
+.footer__copyright {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  line-height: 22px;
+  letter-spacing: .05em;
+  font-weight: 600;
+  color: white;
+  opacity: .5;
+  text-transform: uppercase;
+}

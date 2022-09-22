@@ -123,6 +123,14 @@
 @import url('../blocks/communication/__address/communication__address.css');
 @import url('../blocks/communication/__address-text/communication__address-text.css');
 
+/* Footer */
+@import url('../blocks/footer/footer.css');
+@import url('../blocks/footer/__content/footer__content.css');
+@import url('../blocks/footer/__copyright/footer__copyright.css');
+@import url('../blocks/footer/__list/footer__list.css');
+@import url('../blocks/footer/__item/footer__item.css');
+@import url('../blocks/footer/__link/footer__link.css');
+
 /* Анимация бегущей строки */
 @keyframes stroka {
   0% {

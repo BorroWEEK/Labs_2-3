@@ -1,0 +1,15 @@
+.footer__link {
+  margin: 0;
+  padding: 0;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: .03em;
+  color: white;
+  text-decoration: none;
+  transition: color .5s linear;
+}
+
+.footer__link:hover {
+  color: var(--pg-red);
+}
