@@ -10,3 +10,7 @@
   letter-spacing: .05em;
   font-weight: 600;
 }
+
+.form input {
+  color: white;
+}
