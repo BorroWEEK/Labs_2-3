@@ -1,0 +1,7 @@
+.form__section-btn {
+  display: flex;
+  justify-content: space-between;
+  border: none;
+  margin: 0;
+  padding: 0;
+}

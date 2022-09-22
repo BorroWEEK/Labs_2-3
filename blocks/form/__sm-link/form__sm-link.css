@@ -1,0 +1,11 @@
+.form__sm-link {
+  display: block;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 1px solid rgba(255, 255, 255, .5);
+  transition: opacity .5s linear;
+}
+
+.form__sm-link:hover {
+  opacity: .5;
+}

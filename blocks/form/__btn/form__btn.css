@@ -1,0 +1,32 @@
+@keyframes form-btn {
+  from {
+    background-image: linear-gradient(90deg,
+                                    var(--pg-red) 0% 68%,
+                                    transparent 68% 100%);
+  }
+  to {
+    background-image: linear-gradient(90deg,
+                                      var(--pg-red) 0% 100%);
+  }
+}
+
+.form__btn {
+  box-sizing: border-box;
+  padding: 12px 25px;
+  color: white;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 34px;
+  letter-spacing: .05em;
+  text-transform: uppercase;
+  border: none;
+  background-color: transparent;
+  background-image: linear-gradient(90deg,
+                                    var(--pg-red) 0% 68%,
+                                    transparent 68% 100%);
+  cursor: pointer;
+}
+
+.form__btn:hover {
+  animation: form-btn .2s linear forwards;
+}

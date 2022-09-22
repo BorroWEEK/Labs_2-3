@@ -1,0 +1,3 @@
+.form__sm-item:nth-of-type(n+2) {
+  margin-top: 15px;
+}

@@ -1,0 +1,4 @@
+.form__two-btn {
+  display: flex;
+  justify-content: flex-end;
+}

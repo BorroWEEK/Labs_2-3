@@ -95,6 +95,34 @@
 @import url('../blocks/cards/__text/cards__text.css');
 @import url('../blocks/cards/__btn/cards__btn.css');
 
+/* Asks */
+@import url('../blocks/asks/asks.css');
+@import url('../blocks/asks/__title/asks__title.css');
+@import url('../blocks/asks/__dots/asks__dots.css');
+@import url('../blocks/asks/__form/asks__form.css');
+@import url('../blocks/asks/__contact/asks__contact.css');
+@import url('../blocks/asks/__name/form__name.css');
+
+/* Form */
+@import url('../blocks/form/form.css');
+@import url('../blocks/form/__contact/form__contact.css');
+@import url('../blocks/form/__section-question/form__section-question.css');
+@import url('../blocks/asks/__form/asks__form.css');
+@import url('../blocks/form/__tel/form__tel.css');
+@import url('../blocks/form/__section-btn/form__section-btn.css');
+@import url('../blocks/form/__textarea/form__textarea.css');
+@import url('../blocks/form/__sm-list/form__sm-list.css');
+@import url('../blocks/form/__sm-link/form__sm-link.css');
+@import url('../blocks/form/__sm-item/form__sm-item.css');
+@import url('../blocks/form/__btn/form__btn.css');
+@import url('../blocks/form/__two-btn/form__two-btn.css');
+
+
+/* Communication */
+@import url('../blocks/communication/communication.css');
+@import url('../blocks/communication/__address/communication__address.css');
+@import url('../blocks/communication/__address-text/communication__address-text.css');
+
 /* Анимация бегущей строки */
 @keyframes stroka {
   0% {

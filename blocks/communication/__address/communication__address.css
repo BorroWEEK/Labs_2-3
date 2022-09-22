@@ -1,0 +1,12 @@
+.communication__address {
+  display: flex;
+  border: none;
+  background-color: transparent;
+  color: white;
+  cursor: pointer;
+  transition: color .5s linear;
+}
+
+.communication__address:hover {
+  color: red;
+}

@@ -1,0 +1,13 @@
+.communication__address-text {
+  margin: 0 0 0 10px;
+  padding: 0;
+  font-size: 16px;
+  line-height: 22px;
+  letter-spacing: .05em;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.communication__address-text:first-of-type {
+  margin-bottom: 14px;
+}

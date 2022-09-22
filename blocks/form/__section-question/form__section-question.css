@@ -1,0 +1,7 @@
+.form__section-question {
+  padding: 0;
+  margin: 24px 0 24px 0;
+  display: flex;
+  justify-content: space-between;
+  border: none;
+}

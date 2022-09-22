@@ -1,0 +1,14 @@
+.form__textarea {
+  margin: 0;
+  padding: 25px 15px;
+  max-width: 526px;
+  display: flex;
+  flex: 1 1 480px;
+  background-color: transparent;
+}
+
+.form__textarea:focus {
+  color: white;
+  border-color: red;
+  outline: none;
+}
