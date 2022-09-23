@@ -1,9 +1,12 @@
 .slider__list {
+  position: absolute;
+  left: 0;
+  top: 0;
   box-sizing: border-box;
   padding: var(--clear);
   margin: var(--clear);
-  min-width: 1296px;
   display: flex;
-  justify-content: space-between;
   list-style-type: none;
+  overflow: hidden;
+  transition: left 1s linear;
 }

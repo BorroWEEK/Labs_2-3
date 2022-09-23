@@ -1,3 +1,6 @@
 .slider__wrapper {
-  max-width: 1558px;
+  position: relative;
+  overflow: hidden;
+  width: 1296px;
+  height: 420px;
 }
