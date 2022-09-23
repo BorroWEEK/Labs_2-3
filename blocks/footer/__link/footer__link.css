@@ -8,6 +8,7 @@
   color: white;
   text-decoration: none;
   transition: color .5s linear;
+  cursor: pointer;
 }
 
 .footer__link:hover {

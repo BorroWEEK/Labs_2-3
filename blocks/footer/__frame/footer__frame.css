@@ -1,0 +1,8 @@
+.footer__frame {
+  opacity: .5;
+  transition: opacity .5s linear;
+}
+
+.footer__frame:hover {
+  opacity: 1;
+}
