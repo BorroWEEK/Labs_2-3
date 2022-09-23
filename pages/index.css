@@ -152,8 +152,8 @@
   bottom: 0;
   min-width: 100%;
   height: 40px;
-  background-color: orange;
-  color: black;
+  background-image: repeating-linear-gradient(45deg, yellow 0% 2%, black 2% 4%);
+  color: var(--pg-red);
   z-index: 10;
   overflow: hidden;
 }
@@ -164,5 +164,8 @@
   height: 50px;
   display: inline;
   margin: var(--clear);
-  animation: stroka 12s linear infinite;
+  animation: stroka 15s linear infinite;
+  text-shadow: 2px 2px 2px black;
+  /* background-color: black; */
+  z-index: 11;
 }
